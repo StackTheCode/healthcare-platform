@@ -18,5 +18,5 @@ This application simplifies healthcare onboarding by handling secure user input,
 ## 🛠 Tech Stack
 - **Frontend:** Next.js, React, React Hook Form, Zod
 - **Backend & Database:** Appwrite
-- **Styling:** Tailwind CSS (if used)
-- **Deployment:** (Vercel / other — specify here)
+- **Styling:** Tailwind CSS 
+- **Deployment: Vercel
